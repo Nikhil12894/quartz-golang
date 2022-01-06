@@ -18,4 +18,4 @@
 ### Go Patch ###
 /vendor/
 /Godeps/
-/bin
+bin/
